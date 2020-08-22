@@ -373,8 +373,9 @@ body{
     .projects-slide{
         flex-direction: column;
     }
-    .project-image{
+    .project-visual{
         margin-bottom: 46px;
+        text-align: left;
     }
     .contacts-block{
         align-items: flex-start;
