@@ -91,9 +91,10 @@ body{
     height: 389px;
     background: #fff;
     border-radius: 50%;
-    background-image: url(../img/myphoto.jpg);
+    background-image: url(../img/photo.jpg);
     background-repeat: no-repeat;
-    background-position:  center right -47px;
+    background-position:  center right;
+    background-size: contain;
     border: 13px solid #fff;
 }
 
